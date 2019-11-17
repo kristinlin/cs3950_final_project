@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <TRAFFICML_REALTIME xmlns="http://traffic.nokia.com/trafficml-flow-3.2" CREATED_TIMESTAMP="2019-11-17T00:14:50Z" MAP_VERSION="" UNITS="imperial" VERSION="3.2">
 <RWS TY="TMC" MAP_VERSION="201904" EBU_COUNTRY_CODE="1" EXTENDED_COUNTRY_CODE="A0" TABLE_ID="29" UNITS="imperial">
 <RW LI="129-00683" DE="Causeway St" PBT="2019-11-17T00:14:50Z" mid="4031ed0c-48af-460e-a737-c8fe28bc8520">
